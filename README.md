@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Artem.
 - 👀 I’m interested in HTML, JS, React
-- 🌱 I’m studying now JS and React
+- 🌱 I study JS and React
 - 📫 How to reach me fkpmikpres@gmail.com
 
 <!---
