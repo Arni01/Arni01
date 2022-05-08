@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Arni01?tab=stars](https://github.com/Arni01?tab=stars)
 
-- 👯 My last project was on a team [project](https://github.com/Arni01/pts-f-21-5) at the Wargaming Forge courses [Premium Shop](https://premium-shop-wg.herokuapp.com). Vanilla js was used on the project. To create a SPA application, a custom router, redux, react was developed.
+- 👯 My last project was on a team [project](https://github.com/Arni01/pts-f-21-5) at the Wargaming Forge courses [Premium Shop](https://premium-shop-wg.herokuapp.com). Vanilla js was used on the project. To create a SPA application, a custom router, redux, react were developed.
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
